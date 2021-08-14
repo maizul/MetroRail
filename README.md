@@ -1,7 +1,7 @@
 # MetroRail
  Metro Rail - Computer Graphics
 
-It was one my novice project that i complete during one of my course "Computer Graphics".
+It was one my novice project that i completed during one of my course "Computer Graphics".
 I enjoyed doing it so much couldn't help sharing and keeping it here in the open.
 Special Thanks to my group mates.
 
