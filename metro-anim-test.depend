@@ -1,8 +1,13 @@
 # depslib dependency file v1.0
-1627504073 source:e:\aiub\summer 2021\computer graphics\finalproj\main.cpp
+1628980346 source:e:\aiub\codeblocks\gl_code\metro-anim-test\main.cpp
 	<windows.h>
 	<GL/glut.h>
 	<math.h>
+
+976645372 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
 
 1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
 	<winresrc.h>
@@ -208,11 +213,6 @@
 1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
-976645372 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
-	<windows.h>
-	<GL/gl.h>
-	<GL/glu.h>
-
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
 
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
@@ -221,9 +221,4 @@
 
 1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
-
-1627642019 source:e:\aiub\sem 7\computer graphics\lab\metrorail\main.cpp
-	<windows.h>
-	<GL/glut.h>
-	<math.h>
 

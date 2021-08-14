@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="FinalProj" />
+		<Option title="metro-anim-test" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/FinalProj" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/metro-anim-test" prefix_auto="1" extension_auto="1" />
 				<Option working_dir="C:/Program Files (x86)/CodeBlocks/MinGW/bin" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/FinalProj" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/metro-anim-test" prefix_auto="1" extension_auto="1" />
 				<Option working_dir="C:/Program Files (x86)/CodeBlocks/MinGW/bin" />
 				<Option object_output="obj/Release/" />
 				<Option type="0" />
